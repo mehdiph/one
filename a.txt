@@ -1,2 +1,2 @@
-test for conflict from local repo
+test 2 from remote
 
